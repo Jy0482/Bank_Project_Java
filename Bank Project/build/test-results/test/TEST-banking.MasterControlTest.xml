@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.MasterControlTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-03-29T23:46:28" hostname="LAPTOP-PT353J1K" time="0.074">
+  <properties/>
+  <testcase name="typo_in_create_command_is_invalid()" classname="banking.MasterControlTest" time="0.0"/>
+  <testcase name="sample_make_sure_this_passes_unchanged()" classname="banking.MasterControlTest" time="0.068"/>
+  <testcase name="typo_in_deposit_command_is_invalid()" classname="banking.MasterControlTest" time="0.001"/>
+  <testcase name="two_typo_commands_both_invalid()" classname="banking.MasterControlTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

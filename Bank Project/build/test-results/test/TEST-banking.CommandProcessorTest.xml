@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.CommandProcessorTest" tests="19" skipped="0" failures="0" errors="0" timestamp="2024-03-29T23:46:27" hostname="LAPTOP-PT353J1K" time="0.068">
+  <properties/>
+  <testcase name="APR_is_correctly_calculated_for_savings_or_checking_account()" classname="banking.CommandProcessorTest" time="0.018"/>
+  <testcase name="process_create_command_for_savings_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="transfer_command_from_one_account_to_another()" classname="banking.CommandProcessorTest" time="0.018"/>
+  <testcase name="process_deposit_command_for_savings_account()" classname="banking.CommandProcessorTest" time="0.002"/>
+  <testcase name="pass_time_command_deletes_accounts_with_zero_balance()" classname="banking.CommandProcessorTest" time="0.002"/>
+  <testcase name="process_withdraw_command_for_savings_account_after_month_reset()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="pass_time_command_deducts_$25_when_below_$100_from_accounts()" classname="banking.CommandProcessorTest" time="0.002"/>
+  <testcase name="transfer_command_transfers_the_amount_actually_withdrawn()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="process_deposit_command_for_checking_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="process_withdraw_command_for_checking_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="APR_is_correctly_calculated_for_cd_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="process_pass_time_command_for_savings_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="process_pass_time_command_for_checking_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="process_withdraw_command_for_savings_account()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="pass_time_command_can_delete_accounts_with_below_$100_balance()" classname="banking.CommandProcessorTest" time="0.0"/>
+  <testcase name="process_pass_time_command_for_cd_account()" classname="banking.CommandProcessorTest" time="0.002"/>
+  <testcase name="process_create_command_for_checking_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="process_withdraw_command_for_cd_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <testcase name="process_create_command_for_cd_account()" classname="banking.CommandProcessorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="banking.BankTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-03-29T23:46:27" hostname="LAPTOP-PT353J1K" time="0.107">
+  <properties/>
+  <testcase name="withdraw_through_correct_account_ID()" classname="banking.BankTest" time="0.053"/>
+  <testcase name="deposit_through_correct_account_ID()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="add_one_account_to_bank()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="deposit_twice_through_an_account_ID()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="bank_has_no_accounts_initially()" classname="banking.BankTest" time="0.023"/>
+  <testcase name="retrieve_correct_account()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="withdraw_twice_through_an_account_ID()" classname="banking.BankTest" time="0.001"/>
+  <testcase name="add_two_accounts_to_bank()" classname="banking.BankTest" time="0.019"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
